@@ -1,0 +1,3 @@
+-ruta del componente de Cristobal
+-ruta del componente de Katya
+-ruta del componente de Eduardo
